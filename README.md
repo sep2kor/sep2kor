@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sep2kor
+- 👋 Hi, I’m @sep2kor (Sandeep Parvatikar)
 - 👀 I’m interested in DDS, ROS, middleware protocols for automotive and IoT domains
 - 🌱 I’m currently learning DDS, RUST programming language
 - 💞️ I’m looking to collaborate on 
